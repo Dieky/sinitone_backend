@@ -8,8 +8,8 @@ app.use(cors());
 // if needed check https://documentation.alphasoftware.com/pages/GettingStarted/GettingStartedTutorials/Basic%20Tutorials/Northwind/northwindMySQL.xml
 const connection = mysql.createConnection({
     host: 'localhost',
-    user: 'root',
-    password: 'yourpassword',
+    user: 'Patrick',
+    password: 'Figaro007',
     database: 'northwind'
 });
 
